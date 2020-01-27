@@ -1,16 +1,10 @@
 <template>
-  <view class="container">
-    <view class="statusbar"></view>
-  </view>
+  <view class="statusbar"></view>
 </template>
 
 <style>
-.container {
-  background-color: white;
-  flex: 1;
-}
-.statusbar {
-  height: 40px;
-  background-color: darkgray;
-}
+  .statusbar {
+    height: 45px;
+    background-color: #FFCE00;
+  }
 </style>
